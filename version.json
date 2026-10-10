@@ -1,6 +1,5 @@
 {
-  "version": "1.0.0",
-  "version_code": 1,
-  "changelog": "Initial release of the LDT update checker.",
+  "version": 1,
+  "changelog": "First alpha of Decipher Corp. This is just a test with Core-Mechanics.",
   "download_url": "https://www.icloud.com/shortcuts/1eeadf26b5b946278b935ccf279ffab5"
 }
