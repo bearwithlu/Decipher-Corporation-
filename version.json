@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "version_code": 1,
   "changelog": "Initial release of the LDT update checker.",
   "download_url": "https://www.icloud.com/shortcuts/YOUR_SHORTCUT_ID"
 }
