@@ -1,6 +1,5 @@
 {
   "version": 1,
-  "changelog": "First alpha of Decipher Corp. This is just a test with Core-Mechanics.
-",
+  "changelog": "DECIPHER CORP. | VERSION 1.0.0\nCodename: First Contact\n\nWelcome to Decipher Corp., Agent.\n\n• Initial release of the Decipher Corp. system.\n• Employee onboarding with username registration and unique DC-ID generation.\n• Personalized employee settings, including custom symbols for confirmations, negative responses, and notifications.\n• Local employee database for storing identity details, status, preferences, and account information.\n• Decipher Corp. Intranet with access to employee ID, contract details, debriefing news, Decipher Mail, and Decider Invest.\n• Employee ID card displaying personal identification and account details.\n• Intelligence operations: Receive a Transmission, Decrypt It, Encrypt It, and Archive.\n• Settings menu and persistent system state.\n• Corporate boot sequence with startup audio and welcome messages.\n\nTrust the signal. Question the source."
   "download_url": "https://www.icloud.com/shortcuts/1eeadf26b5b946278b935ccf279ffab5"
 }
