@@ -3,5 +3,20 @@
   "Exsav": 1,
   "Lorelib": 1,
   "Savelib": 1,
-  "Settlib": 1
+  "Settlib": 1,
+  "CodeIndex": {
+    "1": ""
+  },
+  "ExIndex": {
+    "1": ""
+  },
+  "LoreIndex": {
+    "1": ""
+  },
+  "SaveIndex": {
+    "1": ""
+  },
+  "SettIndex": {
+    "1": ""
+  }
 }
